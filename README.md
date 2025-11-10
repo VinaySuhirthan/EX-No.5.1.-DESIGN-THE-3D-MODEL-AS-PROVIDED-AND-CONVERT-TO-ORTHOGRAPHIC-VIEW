@@ -37,8 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![Uploading 5.1 Drawing_page-0001.jpg…]()
 
+![5 1 Drawing_page-0001](https://github.com/user-attachments/assets/1bbd0397-57d7-443d-9e9c-411dd7d10e66)
 
 
 ## RESULT:
